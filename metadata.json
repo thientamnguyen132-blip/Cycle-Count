@@ -1,0 +1,6 @@
+{
+  "name": "SPX Cycle Count — Daily Inventory Checking",
+  "description": "Ứng dụng kiểm kho hàng ngày SPX Cycle Count dựa trên file dữ liệu 53 cột gốc, hỗ trợ quét mã vạch, đọc to OnHoldReason và xuất báo cáo kiểm kê.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
